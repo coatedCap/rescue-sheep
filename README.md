@@ -5,3 +5,6 @@ Group Members:
 * Ethan Griffith
 * Natalie Norris
 * Jeremy Tran  
+
+
+``` ARCHIVE VERSION LIGHTING BAKED```
